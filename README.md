@@ -23,7 +23,7 @@
 
 :microscope: Molecular biology •• DNA/RNA sequencing • q/ddPCR • microbes
 
-:petri_dish: Microbial ecology •• antibiotics • persistence/resistance/resilience • time/space dynamics • bioremediation
+:petri_dish: Microbial ecology •• antibiotic resistance • time/space dynamics • bioremediation
 
 :sunglasses: Personal •• SCUBA • food • dog • travel
                                                                
