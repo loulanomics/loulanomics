@@ -1,6 +1,14 @@
+<a href="url"><img src="https://github.com/loulanomics/loulanomics/blob/main/image.jpeg" align="left" height="175" width="175" ></a>
+
 # lou + genomics :dna:
 
-:bird: [Twitter](https://twitter.com/loulanomics) • 📚 [Scholar](https://scholar.google.com/citations?user=QBfrT40AAAAJ&hl=en&oi=ao)   
+:bird: [Twitter](https://twitter.com/loulanomics) 
+
+
+📚 [Scholar](https://scholar.google.com/citations?user=QBfrT40AAAAJ&hl=en&oi=ao)   
+ 
+ 
+ 
  
 ## : 2022
 :calendar: PhD Candidate • University of Wisconsin-Milwaukee • Freshwater Sciences 
@@ -26,4 +34,4 @@
 :petri_dish: Microbial ecology •• antibiotic resistance • time/space dynamics • bioremediation
 
 :sunglasses: Personal •• SCUBA • food • dog • travel
-                                                               
+
