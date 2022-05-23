@@ -5,14 +5,14 @@
 ### : 2022
 :calendar: PhD Candidate • University of Wisconsin-Milwaukee • Freshwater Sciences 
 
-:toilet: Wastewater microbial ecology 
+:toilet: wastewater microbial ecology 
 
 
 ### 2023 :
 
 :mortar_board: Postdoctoral fellow • Marquette University • Civil, Construction and Environmental Engineering
 
-🚰 Water-reuse
+🚰 water-reuse
 
 
 ### Interests
