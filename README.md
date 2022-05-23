@@ -1,16 +1,29 @@
-### Hi there 👋
+## lou + genomics :dna:
 
-<!--
-**loulanomics/loulanomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:bird: [Twitter](https://twitter.com/loulanomics) • 📚 [Scholar](https://scholar.google.com/citations?user=QBfrT40AAAAJ&hl=en&oi=ao)   
+ 
+### : 2022
+:calendar: PhD Candidate • University of Wisconsin-Milwaukee • Freshwater Sciences 
 
-Here are some ideas to get you started:
+:toilet: Wastewater microbial ecology 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 2023 :
+
+:mortar_board: Postdoctoral fellow • Marquette University • Civil, Construction and Environmental Engineering
+
+🚰 Water-reuse
+
+
+### Interests
+
+:computer: Research computing •• R • Python • Unix shell • SQL
+
+:chart_with_upwards_trend: Data science •• statistics • organization • visualization • modeling
+
+:microscope: Molecular biology •• DNA/RNA sequencing • q/ddPCR • microbes
+
+:petri_dish: Microbial ecology •• antibiotics • persistence/resistance/resilience • time/space dynamics • bioremediation
+
+:sunglasses: Personal •• SCUBA • food • dog • travel
+                                                               
