@@ -22,9 +22,9 @@
 
 ## Interests
 
-:computer: Research computing •• R • Python • Unix shell • SQL
+:computer: Research computing •• R • Python • Unix/Linux • SQL
 
-:chart_with_upwards_trend: Data science •• statistics • organization • visualization • modeling
+:chart_with_upwards_trend: Data science •• stats • data viz • modeling
 
 :microscope: Molecular biology •• DNA/RNA sequencing • q/ddPCR • microbes
 
