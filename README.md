@@ -2,7 +2,8 @@
 
 # lou + genomics :dna:
 
-:bird: [Twitter](https://twitter.com/loulanomics) • 📚 [Scholar](https://scholar.google.com/citations?user=QBfrT40AAAAJ&hl=en&oi=ao) • :briefcase: [LinkedIn](https://www.linkedin.com/in/loulamartina/) 
+ 📚 [Scholar](https://scholar.google.com/citations?user=QBfrT40AAAAJ&hl=en&oi=ao)
+ 📇 [LinkedIn](https://www.linkedin.com/in/loulamartina/) 
  
  
  
